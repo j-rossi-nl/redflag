@@ -1,0 +1,27 @@
+,precision,recall,f1-score,support
+B-designated_use,0.0,0.0,0.0,36.0
+I-designated_use,0.0,0.0,0.0,1085.0
+B-end_date,0.0,0.0,0.0,13.0
+I-end_date,0.0,0.0,0.0,49.0
+B-expiration_date_of_lease,0.0,0.0,0.0,7.0
+I-expiration_date_of_lease,0.0,0.0,0.0,36.0
+B-extension_period,0.0,0.0,0.0,15.0
+I-extension_period,0.0,0.0,0.0,541.0
+B-leased_space,0.0,0.0,0.0,50.0
+I-leased_space,0.0,0.0,0.0,1164.0
+B-lessee,0.0,0.0,0.0,76.0
+I-lessee,0.0,0.0,0.0,606.0
+B-lessor,0.0,0.0,0.0,90.0
+I-lessor,0.0,0.0,0.0,742.0
+B-notice_period,0.0,0.0,0.0,30.0
+I-notice_period,0.0,0.0,0.0,831.0
+B-signing_date,0.0,0.0,0.0,18.0
+I-signing_date,0.0,0.0,0.0,54.0
+B-start_date,0.0,0.0,0.0,21.0
+I-start_date,0.0,0.0,0.0,224.0
+B-term_of_payment,0.0,0.0,0.0,126.0
+I-term_of_payment,0.0,0.0,0.0,3187.0
+B-vat,0.0,0.0,0.0,48.0
+I-vat,0.0,0.0,0.0,2246.0
+macro avg,0.0,0.0,0.0,11295.0
+weighted avg,0.0,0.0,0.0,11295.0
