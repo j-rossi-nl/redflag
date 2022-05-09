@@ -9,7 +9,10 @@
 
 ## Where is the data?
 
-* [to be added](https://figshare/.../)
+* This is a resource paper:
+  * Dataset of annotated lease contracts in English
+  * `ALeaseBERT` model weights
+* [Link coming](https://figshare/.../)
 
 ## Memos
 * Requirements are provided
