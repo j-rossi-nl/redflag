@@ -2,33 +2,22 @@
 
 
 
-### What is this repository for? ###
+## What is this repository for?
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+* This is the code repository for the paper [A Benchmark for Lease Contract Review](https://arxiv.org/abs/2010.10386)
+* Authors: Spyretta Leivaditi, Julien Rossi, Evangelos Kanoulas
 
-### How do I get set up? ###
+## Where is the data?
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+* [to be added](https://figshare/.../)
 
-### Contribution guidelines ###
+## Memos
+* Requirements are provided
+* The code is "as-is" 
+* This is the code used for the paper
+* It has type hinting and comments
+* There is no way to be sure that it will work again
 
-* Writing tests
-* Code review
-* Other guidelines
+## Who do I talk to?
 
-### Memos ###
-* Getting tables for Redflag Detection
-``
-
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+* Corresponding Author: [Julien Rossi](mailto:j.rossi@uva.nl) 
