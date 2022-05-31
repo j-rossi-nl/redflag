@@ -12,7 +12,8 @@
 * This is a resource paper:
   * Dataset of annotated lease contracts in English
   * `ALeaseBERT` model weights
-* [Link coming](https://figshare/.../)
+* [DOI](https://doi.org/10.21942/uva.19732993) *activated May 31, 2022, valid until May 31, 2027*
+* **ACKNOWLEDGEMENTS**: Annotations are provided by courtesy of [Imprima](https://www.imprima.com/)
 
 ## Memos
 * Requirements are provided
